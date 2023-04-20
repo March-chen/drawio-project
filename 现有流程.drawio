@@ -1,9 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2023-04-20T12:38:07.627Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" version="21.1.9" etag="M8fGxg70d0-s09IPPtOC" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-20T12:42:42.248Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="fxQSWLujSgKyt5IltxiF" version="21.1.9" type="github">
   <diagram name="Page-1" id="l_DwLUGhMb3ssOaubkrQ">
-    <mxGraphModel>
+    <mxGraphModel dx="1804" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="quawZ67CWL6LsrROZs2T-1" value="dy侧环境状态轮询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="quawZ67CWL6LsrROZs2T-2" value="模板发布状态轮询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="quawZ67CWL6LsrROZs2T-3" value="获取APP镜像" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="quawZ67CWL6LsrROZs2T-4" value="eye侧环境状态轮询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="quawZ67CWL6LsrROZs2T-5" value="Pandora创建APP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="quawZ67CWL6LsrROZs2T-6" value="csp校验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="quawZ67CWL6LsrROZs2T-7" value="Dump任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="quawZ67CWL6LsrROZs2T-8" value="换库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="quawZ67CWL6LsrROZs2T-9" value="模板发布记录落盘" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
