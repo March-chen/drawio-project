@@ -1,32 +1,35 @@
-<mxfile host="app.diagrams.net" modified="2023-04-20T11:19:58.071Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="WQrE1LbzqeqxD9AhX3fH" version="21.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-20T11:43:04.087Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="f8dS2AeN0WBJCbYNZkyT" version="21.1.9" type="github">
   <diagram name="Page-1" id="EC45bGrot-17b-qhD5Li">
     <mxGraphModel dx="954" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="hTMLAHPQ2gEG_tuz9uF5-1" value="Start" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="10" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hTMLAHPQ2gEG_tuz9uF5-2" value="End" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="530" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="680" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hTMLAHPQ2gEG_tuz9uF5-3" value="初始化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hTMLAHPQ2gEG_tuz9uF5-3" value="初始化db记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hTMLAHPQ2gEG_tuz9uF5-4" value="生成模板环境" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hTMLAHPQ2gEG_tuz9uF5-5" value="模板环境前置校验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="180" width="120" height="60" as="geometry" />
+        <mxCell id="hTMLAHPQ2gEG_tuz9uF5-5" value="csp抓取校验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hTMLAHPQ2gEG_tuz9uF5-6" value="模板环境后置校验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hTMLAHPQ2gEG_tuz9uF5-7" value="模板发布" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hTMLAHPQ2gEG_tuz9uF5-9" value="cron&lt;br&gt;已发布模板记录置为succ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hTMLAHPQ2gEG_tuz9uF5-10" value="dump任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
