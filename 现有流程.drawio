@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-21T02:37:57.241Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="rlIVBd2z3G-sPm6hMygP" version="21.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-21T02:38:13.459Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="UEKQm8VxFYeo8SsYgb12" version="21.1.9" type="github">
   <diagram name="Page-1" id="l_DwLUGhMb3ssOaubkrQ">
     <mxGraphModel dx="2585" dy="933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -103,8 +103,8 @@
         <mxCell id="nYCDSFWQMsK9gUHKX8EJ-28" value="修改代码变更模板" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-210" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nYCDSFWQMsK9gUHKX8EJ-34" value="步骤强耦合" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry y="510" width="120" height="60" as="geometry" />
+        <mxCell id="nYCDSFWQMsK9gUHKX8EJ-34" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;步骤强耦合&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
